@@ -1,0 +1,4 @@
+COMANDOS PARA INSTALAR ANGULAR ENTRE OTRAS COSAS
+npm install -g @angular/cli   (sola una vez en la terminal como Administrador)
+ng new mi-app
+ng serve -o
